@@ -63,15 +63,17 @@ endmodule
 
 ### Output:
 ### RTL:
-![op](rtl%20halfadd.png)
-![op](rtl%20fullharder.png)
+![rtl fullharder](https://github.com/LokeshRajamani/HALF-ADDER-AND-FULL-ADDER/assets/120544804/9f597536-276c-4ea2-baec-96b6b79c9046)
+![rtl halfadd](https://github.com/LokeshRajamani/HALF-ADDER-AND-FULL-ADDER/assets/120544804/295fc348-8cc2-4c83-94ec-0293ac567a86)
+
 ### TIMING DIAGRAM:
-![op](waveform%20halfadder.png)
-![op](waveform%20fulladder.png)
+![waveform fulladder](https://github.com/LokeshRajamani/HALF-ADDER-AND-FULL-ADDER/assets/120544804/6ac465dc-f445-4b1b-8307-06e0bd594931)
+![waveform halfadder](https://github.com/LokeshRajamani/HALF-ADDER-AND-FULL-ADDER/assets/120544804/53810364-d615-4eab-9138-22d7df66f0e4)
 
 ### TRUTH TABLE 
-![op](HALF%20TT.png)
-![op](FULL%20TT.png)
+![FULL TT](https://github.com/LokeshRajamani/HALF-ADDER-AND-FULL-ADDER/assets/120544804/42bcd519-f277-485d-a538-4e86353c5e07)
+![HALF TT](https://github.com/LokeshRajamani/HALF-ADDER-AND-FULL-ADDER/assets/120544804/ca71f46f-cf1e-4aee-bf38-06748978d092)
+
 
 ### Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
